@@ -2,7 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+// Comment this if you don't need 'reportWebVitals()'. Hey! An shortcut available in VSCode! 'Cmd + /' to instantly comment selected text!
 import reportWebVitals from './reportWebVitals';
+// Comment this if you don't need 'reportWebVitals()'. Hey! An shortcut available in VSCode! 'Cmd + /' to instantly comment selected text!
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

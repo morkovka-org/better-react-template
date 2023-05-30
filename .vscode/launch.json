@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Run application",
+      "name": "Run your site!",
       "type": "node",
       "request": "launch",
       "cwd": "${workspaceFolder}",

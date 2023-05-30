@@ -1,7 +1,8 @@
 {
-  "name": "codespaces-react",
+  "name": "better-react-template",
   "version": "0.1.0",
-  "private": true,
+  "private": true, 
+  "What_Is_Key_Private": "The key 'private' is a key that will not allow 'npm' to publish it. From Microsoft Help: If set to true, then npm will refuse to publish it.",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

@@ -1,3 +1,17 @@
+/* Help: 
+'font-family':
+Specifies a prioritized list of font family names or generic family names. A user agent iterates through the list of family names until it matches an available font that contains a glyph for the character to be rendered.
+(Edge 12, Firefox 1, Safari 1, Chrome 1, IE 3, Opera 3)
+'margin':
+Shorthand property to set values for the thickness of the margin area. If left is omitted, it is the same as right. If bottom is omitted it is the same as top, if right is omitted it is the same as top. Negative values for margin properties are allowed, but there may be implementation-specific limits.
+(Edge 12, Firefox 1, Safari 1, Chrome 1, IE 3, Opera 3)
+
+For more help, visit https://www.w3schools.com/css/
+For making CSS gradient, visit https://cssgradient.io
+https://w3schools.com/ is by WWW - The world-wide-web. (lol everyone knows about that)
+https://cssgradient.io/ is by Moe Amaya - I don't know anything about him.
+*/
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
