@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+    - name: Send an e-mail to organization
+      url: mailto:foxfire_faceted0r@icloud.com
+      about: Please do NOT use this email to post issues or feature requests (only important business/personal contact).
+    - name: Learn about the latest release
+      url: https://github.com/morkovka-org/better-react-template/releases/tag/0.1.0
+      about: You MUST open this if you're going to suggest new feature (see the features to know what I can't add).
